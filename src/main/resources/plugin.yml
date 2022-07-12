@@ -1,0 +1,3 @@
+name: ItemTime
+version: ${project.version}
+main: cn.accnetry.itemtime.ItemTime
